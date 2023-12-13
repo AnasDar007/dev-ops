@@ -1,0 +1,7 @@
+As a Computer Science student specializing in App and web development, I aim to blend creativity with
+technical skills to create engaging and innovative digital experiences. Eager to contribute to dynamic
+projects, I am committed to continuous learning and applying cutting-edge technologies in the App and
+web sectors
+
+
+The project is based at COMSATS University, Islamabad, Pakistan, and focuses on "Urdu Abusive Language Detection." This project likely involves the development of methods and technologies to identify and filter abusive language in Urdu, possibly using techniques in natural language processing, machine learning, or computational linguistics.
